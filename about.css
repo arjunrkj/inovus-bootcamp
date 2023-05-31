@@ -1,0 +1,11 @@
+.about{
+    float: right;
+    padding-right: 180px;
+    padding-top: 70px;
+}
+#img1{
+    float: left;
+    width: 33px;
+    padding-top: 50px;
+    padding-left: 60px;
+}
